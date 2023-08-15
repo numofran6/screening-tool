@@ -1,0 +1,15 @@
+.health-records-container {
+	@apply bg-[#E5E5E4] min-h-screen max-w-7xl mx-auto;
+}
+
+.health-records-search-input {
+	@apply flex justify-center py-10;
+}
+
+.health-records-search-input-placeholder {
+	@apply flex items-center space-x-2 pl-5;
+}
+
+.health-records-sub-heading {
+	@apply flex items-center justify-center space-x-3 sm:text-lg lg:text-xl;
+}
